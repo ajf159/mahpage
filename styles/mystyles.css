@@ -1,0 +1,20 @@
+body{
+    background-image: url(../images/donutbg.jpg); 
+}
+
+.brown{
+    color: rgb(85, 45, 12);
+}
+.pink{
+    color:rgb(184, 105, 118);
+}
+.bold{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.bold1{
+    font-weight: bold;
+}
+.text{
+    text-align: left;
+}
